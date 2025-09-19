@@ -2,7 +2,8 @@ A new, totally innovative pause menu script. Obviously, since it's a free resour
 
 - Alph0xDev
 
-<img width="1919" height="1079" alt="aPauseMenu" src="https://github.com/user-attachments/assets/b67982aa-33c4-491a-9139-253df1f9e0b7" />
+<img width="1919" height="1079" alt="aPauseMenu" src="https://github.com/user-attachments/assets/73394666-d915-4516-8aa0-269b10e68a94" />
+
 
 [Docs](https://app.gitbook.com/o/p75TNpe9iQipWZK9Ck01/s/QYLwyDNJXfpHaxk2QKjA/a-series/apausemenu)
 [Discord](https://discord.gg/nZ7d23MA6Q)
