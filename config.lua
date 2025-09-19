@@ -6,7 +6,7 @@ Config.framework = "esx" -- esx, qbcore, qbox
 
 Config.serverLogo = "web/assets/logo.png"
 Config.serverTitle = "Your Server Name"
-Config.youtubeLink = "https://www.youtube.com/alph0xdev"
+Config.youtubeLink = "https://www.youtube.com/@alph0xdev"
 Config.discordLink = "https://discord.gg/nZ7d23MA6Q"
 Config.shopLink = "https://yoursite.com"
 Config.rulesLink = "your-server-link-rules"
